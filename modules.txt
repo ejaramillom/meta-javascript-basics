@@ -1,0 +1,4 @@
+Javascript in browser: explores the use of modules.
+
+index.html summons main.js which includes the import for modules canvas.js and square.js
+
